@@ -1,8 +1,8 @@
 ﻿Rules:
 
-Respect Everyone's Opinion \n
-Submit Work on Time \n
-Attend class \n
-Communicate Often \n
-Explain your Work Weekly \n
-Be Honest \n
+Respect Everyone's Opinion
+Submit Work on Time
+Attend class
+Communicate Often
+Explain your Work Weekly
+Be Honest

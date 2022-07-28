@@ -1,9 +1,9 @@
 Roles\
 
 Networking - Shayne
-Designer
-Analyst
-Web Developer
-Tester
-Software Engineer
-Business Analyst
+Designer - Christina
+Database - Yitao
+Web Developer - Georgia
+Tester - Ami
+Software Engineer - Ivan
+Business Analyst - Germaine
